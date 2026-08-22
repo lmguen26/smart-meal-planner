@@ -1,0 +1,17 @@
+{
+  "schema_version": "1.0",
+  "planning": {
+    "thermomix_share_min": 0.5,
+    "thermomix_share_max": 0.8,
+    "fish_meals_per_week_min": 2,
+    "vegetarian_meals_per_week_min": 2,
+    "prioritize_perishables": true,
+    "prioritize_weekly_specials": true,
+    "use_leftovers": true
+  },
+  "nutrition": {
+    "calorie_target_per_person": null,
+    "protein_g_target_per_person": null,
+    "fiber_g_target_per_person": null
+  }
+}
