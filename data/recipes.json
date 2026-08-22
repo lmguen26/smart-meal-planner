@@ -1,0 +1,14 @@
+{
+  "schema_version": "1.0",
+  "recipes": [
+    {
+      "id": "bridge-trout-ginger-soy",
+      "title": "Pan-Seared Trout with Ginger-Soy Sauce",
+      "type": "cookidoo_bridge",
+      "thermomix": true,
+      "source_url": "https://lmguen26.github.io/cookidoo-bridge/recipes/trout-ginger-soy.html",
+      "bridge_slug": "trout-ginger-soy",
+      "tags": ["fish", "high-protein", "lower-calorie"]
+    }
+  ]
+}
